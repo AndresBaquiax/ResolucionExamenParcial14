@@ -1,0 +1,12 @@
+1
+jugador 1
+equipo 1
+2
+jugardor 2
+equipo 2
+3
+jugador 3
+equipo 3
+4
+jugardor 4
+equipo 4
